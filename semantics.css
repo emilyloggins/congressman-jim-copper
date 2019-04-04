@@ -1,0 +1,155 @@
+.container {
+    background-color :#686256;
+    fill-opacity: 0.6;
+    padding: 50px;
+    margin: 110px;
+    border-style: solid;
+    border-color: #587e76;
+    padding-bottom: 150px;
+}
+body {
+    background-color: #c1502e;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: justify;
+    color: black;
+}
+.section--header-big {
+    color: #587e76;
+    text-shadow: 2px 2px black;
+    font-weight: bold;
+    font-style: italic;
+    font-size: 45px;
+    margin-bottom: 0px;
+    text-align: center;
+}
+.header--italic {
+    padding-left: 345px;
+    font-size: 18px;
+    opacity: 0.7;
+    letter-spacing: 1.3px;
+}
+
+#img1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 70px;
+    margin-bottom: 70px;
+    height: 250px;
+    width: 45%;
+    border-radius: 24%;
+}
+.article--section-bio {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#img2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    height: 300px;
+    width: 100%;
+}
+
+.section--title-medium {
+    color: #587e76;
+    text-align: center;
+    text-shadow: 2px 2px black;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+    margin-top: 100px;
+}
+
+.section--state-committees > h2 {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: #587e76;
+    text-align: center;
+    text-shadow: 2px 2px black;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+#button {
+    align-content: right;
+    border-style: solid;
+    border-width: 2px;
+    font-size: 25px;
+    font-weight: bold;
+    font-size: 25px;
+    letter-spacing: 1.2px
+}
+
+.section--title-medium {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    color: #587e76;
+    text-align: center;
+    text-shadow: 2px 2px black;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: italic;
+}
+
+blockquote {
+    margin-left: 85px;;
+    margin-right: 90px;
+    margin-top: 25px;
+    font-style: italic;
+    font-size: 25px;
+    line-height: 44px;
+    padding: 1.2em 30px 0.8em 60px;
+    opacity: 0.7;
+}
+
+blockquote:before {
+    content: open-quote;
+    font-size: 50px;
+    line-height: 40px;
+    opacity: 0.7;
+}
+
+blockquote:after {
+    content: close-quote;
+    font-size: 50px;
+    line-height: 40px;
+    opacity: 0.7;
+}
+.section--h2-quote{
+    background-color: whitesmoke;
+    padding-right: 40px;
+    border-style: solid;
+    border-color: darkgray;
+}
+
+.citation {
+    font-style: italic;
+    font-size: 20px;
+    line-height: 44px;
+    opacity: 0.7;
+    margin-left: 325px;
+    padding-bottom: 25px;
+}
+
+.section--h2-link {
+    text-align: center;
+    padding-top: 70px;
+    font-weight: bold;
+    font-size: 25px;
+    letter-spacing: 1.2px;
+}
+
+a {
+    color: #587e76;
+    text-shadow: 2px 2px black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #b2b2b2;
+    text-shadow: 2px 2px #587e76;
+}
